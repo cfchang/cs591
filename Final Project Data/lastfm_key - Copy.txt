@@ -1,0 +1,5 @@
+lastfm_key
+API Key: 57f80a9c55818c0116a49295cdee953a
+Secret: is da62e4365bde8db4b969092c32a62310
+username: changchang25
+password: Fangyu0220

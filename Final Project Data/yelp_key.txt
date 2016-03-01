@@ -1,0 +1,5 @@
+API v2.0
+Consumer Key	zAn4piLLOyk01-RACb7Zqg
+Consumer Secret	i27fqXwjxZzIRtXV9rFBqjKgMsU
+Token	GQNusOBA8ahcbIwnbFli0hPd6yCGH-bP
+Token Secret	2B0cby_V36JJ_7CfoVyqtH_Zk5Q

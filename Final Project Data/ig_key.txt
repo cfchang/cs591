@@ -1,0 +1,6 @@
+ig_key
+CLIENT INFO
+CLIENT ID	a8d5dd32103d4bdd9808354f50edf2c0
+CLIENT SECRET	1c308c540b0d48d1b180155509d35d70
+WEBSITE URL	https://github.com/cfchang
+REDIRECT URI	https://github.com/cfchang

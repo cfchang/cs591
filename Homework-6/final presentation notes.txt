@@ -1,0 +1,43 @@
+# Pick a projection in order to transform the data into 2d M
+# Measure the Euclidean distance in the projected space.
+
+1. In addition to your presentation, I expect you to submit the ipython notebook you created while preparing your presentation. I need to see ALL the code you wrote (not necessarily in the presentation)
+ 
+2. Your presentations need not be extremely text-heavy, because the full details of your research.  
+You can think that you need to prepare 6-10 powerpoint
+slides (depending how much info you put per slide), each slide giving information about a different part of your analysis.   The number of slides does not matter, but your presentation of the material does.
+
+ 3. For Wed, April 29, you should prepare a 5 min (really! 5 minutes only!) explanation of the most interesting things you found 
+in the course of your research.
+One of the instructors (me, Harry) will approach you, listen to your explanation, and possibly also ask you a few questions.  
+This discussion with your instructors will be part of your final grade.
+
+4. Your slides should contain information about the dataset you collected (and how you collected it).
+ Some basic statistic's of your dataset. Then  you should describe your hypotheses
+and what you did in order to be conviced that your hypotheses holds or does not hold.
+
+5. On Wed 4pm in the Hariri Institute, MCS180, to set up the your computers.  I expect we will conclude the poster session at 6PM.
+ 
+6.  During the  session, you should alternately stand in front of your laptop and be ready to explain it to people that come by, 
+and visit other people's laptops, as in any scientific poster session.   
+I am pretty certain that some of things that your classmates discover are not known to the general public, so this is a
+great way to get some knowledge that you can use to impress future employers and colleagues. 
+
+Hypothesis:
+Is there a trend in x in regards to y, and if so, what is that trend?"
+What factors attribute to higher occurrences of the west nile virus?
+Is there a trend in the spread and/or frequency of the west nile virus
+in regards to mosquito species, weather, and insect spray?
+At what rate did the virus spread? Which factors affected that 
+
+(Chicago)
+
+Results/Analysis:
+
+Clustering
+-use k-means++
+	-easy to implement
+	-provable approx guarantee just from the first iteration 
+	(initialization). More iteration improves cost
+	-works well in practice
+	-
